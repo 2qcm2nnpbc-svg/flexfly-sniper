@@ -4,8 +4,6 @@ import os
 # 1. Page Config & CSS
 st.set_page_config(page_title="FlexFly", page_icon="✈️", layout="centered")
 
-import streamlit as st
-
 # Custom CSS to fix the input alignment and ghost borders
 st.markdown("""
     <style>
