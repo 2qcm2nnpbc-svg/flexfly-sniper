@@ -1,6 +1,6 @@
 # ✈️ FlexFly: Agentic Flight Arbitrage
 
-**"Standard search engines are for people with fixed dates. FlexFly is for people with freedom."**
+**Standard search engines are for people with fixed dates. FlexFly is for people with freedom.**
 
 A Multi-Agent System powered by **DeepSeek V3** and **CrewAI** that bypasses standard flight APIs to scrape the "Hidden Web" of travel hacking forums.
 
