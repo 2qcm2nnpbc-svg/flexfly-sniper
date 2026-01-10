@@ -3,8 +3,8 @@
 **"Standard search engines are for people with fixed dates. FlexFly is for people with freedom."**
 
 A Multi-Agent System powered by **DeepSeek V3** and **CrewAI** that bypasses standard flight APIs to scrape the "Hidden Web" of travel hacking forums.
-<img width="785" height="634" alt="flexfly" src="https://github.com/user-attachments/assets/ae9c7f83-b019-44a3-b998-7a5420e317ee" />
 
+<img width="773" height="657" alt="flexfly" src="https://github.com/user-attachments/assets/a1b4c28c-d264-4734-b037-af1c6d8b86da" />
 
 ## 🤖 The Architecture
 Unlike Expedia or Skyscanner which query rigid GDS databases, FlexFly employs two autonomous agents:
