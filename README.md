@@ -2,7 +2,7 @@
 
 **Standard search engines are for people with fixed dates. FlexFly is for people with freedom.**
 
-A Multi-Agent System powered by **DeepSeek V3** and **CrewAI** that bypasses standard flight APIs to scrape the "Hidden Web" of travel hacking forums.
+A Multi-Agent System powered by **OpenAI** and **CrewAI** that bypasses standard flight APIs to scrape the "Hidden Web" of travel hacking forums.
 
 <img width="773" height="657" alt="flexfly" src="https://github.com/user-attachments/assets/a1b4c28c-d264-4734-b037-af1c6d8b86da" />
 
@@ -14,14 +14,14 @@ Unlike Expedia or Skyscanner which query rigid GDS databases, FlexFly employs tw
 
 ## 🛠️ Tech Stack
 * **Orchestration:** CrewAI
-* **Intelligence:** DeepSeek V3 (via OpenAI Compatible API)
+* **Intelligence:** OpenAI API
 * **Frontend:** Streamlit (Google-Style Minimalist UI)
 * **Search:** DuckDuckGo Tooling
 
 ## 🚀 Quick Start
 1.  Clone repo
 2.  `pip install -r requirements.txt`
-3.  Add DeepSeek API Key to `.streamlit/secrets.toml`
+3.  Add OpenAI API Key to `.streamlit/secrets.toml`
 4.  `streamlit run app.py`
 
 ---
